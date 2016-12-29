@@ -8,7 +8,7 @@
 
 This python script lists and opens the urls of the questions that are likely to be closed.
 
-The idea is ,Newest Questions having large number of down votes are likekely to be flagged.
+The idea is ,Newest Questions having large number of down votes are likely to be flagged.
 
 This script eliminates the questions that are already flagged([on hold],[duplicate],[closed]).
 
