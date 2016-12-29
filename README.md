@@ -34,7 +34,9 @@ Format of url : http://stackoverflow.com/questions?page=2&sort=newest
 
 ![Image of copy](https://s27.postimg.org/40of0ktsz/copy.png)
 
-This python script finds spelling mistakes in titles of questions.
+This python script lists questions with  spelling mistakes in thier title.
+
+You can edit the titles of those questions.
 
 We use us-english dictionary  and a file with technical terms(tech-terms.txt) that is usually identified as spelling mistakes.
 
