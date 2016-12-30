@@ -96,7 +96,7 @@ You should have python3, BeautifulSoup,enchant installed in your system
 
 ###electorate.py 
 
-![Image of copy](https://s27.postimg.org/40of0ktsz/copy.png)
+![Image of elec](https://s24.postimg.org/e53nc6g79/elec.png)
 
 This python script automates the process of voting.
 
