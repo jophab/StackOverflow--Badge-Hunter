@@ -77,7 +77,7 @@ You can change the range of pages checked by modifying the code
 
 >A large number of suggested edits by you were rejected in the past week (at least 5 more than one-third of your accepted edits).
 
->SO is out of empty slots in the queue (40, with several exceptions. See here for details)
+>SO is out of empty slots in the queue 
 
 >There is an edit to a particular post that was not approved yet.
 
