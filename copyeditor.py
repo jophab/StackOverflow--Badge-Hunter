@@ -24,13 +24,15 @@ def find_bad_qn(a):
 			str1=' '.join(list1)
 			result.append({'link': link,'name':name,'words':str1})
 
-for i in range(82300,82325):
+for i in range(83740,83760):
 	find_bad_qn(i)
-
+print("Please Wait.. it will take some time")
 for qn in result:
 	qn['link']="https://stackoverflow.com"+qn['link']	
 for qn in result:
 	print(qn['link']," Error Words:", qn['words'])
 	url=qn['link']
-	#webbrowser.open(url, new=0, autoraise=True)
-exit(0)
+	
+
+
+
