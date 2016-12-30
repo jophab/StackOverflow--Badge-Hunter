@@ -117,7 +117,7 @@ Format of url : https://stackoverflow.com/questions?page=1234&sort=votes
 
 This script had made sure that you will vote only on questions having postive score (Check the code). So dont worry about voting in low quality posts. 
 
-
+You should have python3, BeautifulSoup,selenium installed in your system
 
 
 
@@ -125,7 +125,5 @@ This script had made sure that you will vote only on questions having postive sc
 ###These scripts may have lot of problems.
 ###Feel free to fork and give your corrections and improvements as Pull Requsets
 ###New badge hunters are also welcome
-From
 
-####[jophab](https://github.com/jophab)
 
