@@ -9,8 +9,8 @@ def login():
     browser.get('https://stackoverflow.com/users/login')
     email = browser.find_element_by_id("email")
     password = browser.find_element_by_id("password")
-    email.send_keys("jpa895@gmail.com")
-    password.send_keys("j01ng1thub")
+    email.send_keys("youremail")
+    password.send_keys("yourpassword")
     browser.find_element_by_id("submit-button").click()
     time.sleep(2)
 
