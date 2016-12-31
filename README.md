@@ -64,6 +64,7 @@ If anybody is interested in the above, lets do it :+1
 This script checks the questions that were active a long time ago.So that you can gain Archaeologist Badge too.
 
 ![Image of archeologist](https://s28.postimg.org/i117yws59/arc.png) 
+![Image of excavator](https://s30.postimg.org/s3ocv8t41/excaa.png)
 
 This is done by using the url that sorts the questions based on thier activeness
 
@@ -108,10 +109,14 @@ This script will vote on 30 questions (Provided you have 30 remaining votes that
 
 You can run this script daily to get Electorate badge with ease.
 
-As a side product, you will get Suffrage Badge and Civic Duty Badge too.
+As a side product, you will get following badges too.
 ![Image of copy](https://s24.postimg.org/tpb12pqbp/suff.png)
 
 ![Image of copy](https://s23.postimg.org/7w1wrkqff/ciciv.png)
+![Image of supporter](https://s30.postimg.org/ngiath5r5/supp.png)
+![Image of vox](https://s30.postimg.org/uv7mlurmp/vox.png)
+
+For Vox populi, you can either modify the code to vote on 40 questions or manually vote on 10 more questions.
 
 You will be voting on questions based on ther votes.
 
