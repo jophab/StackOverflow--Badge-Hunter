@@ -112,6 +112,7 @@ As a side product, you will get Suffrage Badge and Civic Duty Badge too.
 ![Image of copy](https://s24.postimg.org/tpb12pqbp/suff.png)
 
 ![Image of copy](https://s23.postimg.org/7w1wrkqff/ciciv.png)
+
 You will be voting on questions based on ther votes.
 
 Format of url : https://stackoverflow.com/questions?page=1234&sort=votes
