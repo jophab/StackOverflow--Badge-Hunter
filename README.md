@@ -55,8 +55,8 @@ You can check through the output in the terminal and find the genuine english la
 
 When you click a url from terminal, it opens  in your default browser. It would be better to **use chrome**. You should be already logged in in your stackoverflow account there. This script doesnt include the login code
 
-tech-term.txt file contains some technical terms that may occur in question titles.It is used to avoid listing of technical terms as spelling mistakes.
-But tech-terms.txt is not complete. Feel free to add words.
+terms.dict file contains some technical terms that may occur in question titles.It is used to avoid listing of technical terms as spelling mistakes.
+But terms.dict is not complete. Feel free to add words.
 
 Only titles are checked by the script now, we can extend it to check the content too.
 
