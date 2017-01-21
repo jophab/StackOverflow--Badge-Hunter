@@ -65,16 +65,19 @@ Then run the following commands in terminal
 To avoid duplicate entries in the file
 
 `awk '!seen[$0]++' terms.dict > output `
+
 `cat output > terms.dict`
 
 To sort words in ascending order
 
 `sort terms.dict > output`
+
 `cat output > terms.dict`
 
 To make all words lowercase
 
 `tr A-Z a-z < terms.dict > output`
+
 `cat output > terms.dict `
 
 
