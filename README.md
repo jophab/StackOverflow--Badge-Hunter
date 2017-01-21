@@ -57,6 +57,26 @@ When you click a url from terminal, it opens  in your default browser. It would 
 
 terms.dict file contains some technical terms that may occur in question titles.It is used to avoid listing of technical terms as spelling mistakes.
 But terms.dict is not complete. Feel free to add words.
+###Guidelines to add words in terms.dict
+1. Add news words to the file. Put each word in a new line
+
+Then run the following commands in terminal
+
+To avoid duplicate entries in the file
+
+`awk '!seen[$0]++' terms.dict > output `
+`cat output > terms.dict`
+
+To sort words in ascending order
+
+`sort terms.dict > output`
+`cat output > terms.dict`
+
+To make all words lowercase
+
+`tr A-Z a-z < terms.dict > output`
+`cat output > terms.dict `
+
 
 Only titles are checked by the script now, we can extend it to check the content too.
 
