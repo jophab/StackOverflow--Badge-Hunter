@@ -68,7 +68,7 @@ To avoid duplicate entries in the file
 
 `cat output > terms.dict`
 
-To sort words in ascending order
+To sort words in alphabetical order
 
 `sort terms.dict > output`
 
