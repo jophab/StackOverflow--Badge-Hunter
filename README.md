@@ -127,7 +127,7 @@ This python script automates the process of voting.
 
 You should give your login details for stackoverflow (email and password) in the script. 
 
-If you use google or facebook login, this script cant help. If anybody is intrested we add that functionality too.
+If you use google or facebook login, this script cant help. If anybody is interested we add that functionality too.
 
 This script will vote on 30 questions (Provided you have 30 remaining votes that day).
 
