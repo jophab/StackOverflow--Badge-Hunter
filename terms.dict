@@ -1,5 +1,5 @@
 abi
-ABIs
+abis
 abstract
 abstract class
 abstract factory
@@ -22,12 +22,12 @@ acr
 action
 actioncable
 actioncontroller
-ActionFilterAttribute
-ActionLink
+actionfilterattribute
+actionlink
 actionlistener
-ActionMailer
+actionmailer
 actionscript
-ActiveChart
+activechart
 active directory
 active form
 activerecord
@@ -55,17 +55,17 @@ aem
 aes gcm
 affiliate
 afnetworking
-AFNetworking
-AFSSLPinningModeCertificate
+afnetworking
+afsslpinningmodecertificate
 agda
 aggregate
 aggregation
 aggregation framework
 ag grid
-AHK
+ahk
 ajax
 ajax request
-Akamai
+akamai
 akka
 akka cluster
 akka.net
@@ -75,7 +75,7 @@ akka stream
 alamofire
 alarmmanager
 alembic
-AlertDialog
+alertdialog
 alexa
 alexa skills kit
 alfresco
@@ -255,8 +255,8 @@ angularfire
 angularforms
 angularhttp
 angularjs
+angularjs
 angularjs. 
-AngularJS
 angularjs components
 angularjs directive
 angularjs e e
@@ -265,9 +265,9 @@ angularjs scope
 angularjs track by
 angularjs validation
 angularmaterial
+angularmaterial
 angular material
 angular material 
-AngularMaterial
 angularmdl
 angularmodules
 angular ng if
@@ -282,7 +282,7 @@ angularrouting
 angular routing
 angularservices
 angular services
-AngularStrap
+angularstrap
 angulartemplate
 angulartesting
 angular ui bootstrap
@@ -315,7 +315,7 @@ apache apex
 apache camel
 apache commons lang
 apache commons lang 
-ApachedDS
+apachedds
 apache flink
 apache httpclient.x
 apache kafka
@@ -333,8 +333,8 @@ apache stringutils
 apache tez
 apache zeppelin
 apache zookeeper
-ApartmentState
-APCu
+apartmentstate
+apcu
 apdu
 apex
 api
@@ -386,8 +386,8 @@ arcives
 arduino
 arduino ide
 arduino uno
-Arearange
-ARG
+arearange
+arg
 argonaut
 argparse
 argument dependent lookup
@@ -442,7 +442,7 @@ atexit
 atlassian sourcetree
 atom editor
 atomic
-AttachConsole
+attachconsole
 attr
 attributes
 audio
@@ -502,7 +502,7 @@ avr
 avro
 avx
 awk
-AWS
+aws
 aws api gateway
 aws code deploy
 aws kinesis firehose
@@ -536,7 +536,7 @@ babel
 babeljs
 babel node
 backbone.js
-Backend
+backend
 background
 background audio
 background color
@@ -569,7 +569,7 @@ bean validation
 beautifier
 beautifulsoup
 becomefirstresponder
-belongsTo
+belongsto
 benchmarking
 beta
 bezier curve
@@ -611,7 +611,7 @@ blade
 blank line
 blink
 blob
-Blobstore
+blobstore
 block
 block cipher
 blocking
@@ -619,7 +619,7 @@ blockingcollection
 blockly
 blogs
 bluebird
-BlueCove
+bluecove
 blueimp
 blueprint
 bluetooth
@@ -708,8 +708,8 @@ caching
 caffe
 cagradientlayer
 cakephp
+cakephp
 cakephp. 
-CakePHP
 cakephp.x
 calabash
 calabash 
@@ -728,9 +728,9 @@ can
 canny operator
 canvas
 captcha
-CardArrayAdapter
+cardarrayadapter
 card.io
-Cardslib
+cardslib
 caret
 carousel
 cart
@@ -744,10 +744,10 @@ casting
 castle windsor
 catamorphism
 category theory
-Catel
+catel
 c++builder
 c++ cx
-CDE
+cde
 cdi
 cefsharp
 celery
@@ -755,7 +755,7 @@ cell formatting
 centering
 centos
 centos 
-CEPH
+ceph
 cerberus
 certificate
 cesium
@@ -782,10 +782,10 @@ charts
 chat
 chatbot
 checkbox
-checkBox
+checkbox
 checkboxes
 checked exceptions
-CheckerFramework
+checkerframework
 checkpointing
 checksum
 cherry pick
@@ -820,11 +820,11 @@ classcastexception
 classification
 classloader
 classname
-ClassNotFoundException
+classnotfoundexception
 classpath
 clearcase
 clearcase ucm
-CLI
+cli
 clickonce
 clip
 clip path
@@ -835,10 +835,10 @@ closures
 cloud
 cloudant
 cloudera cdh
-Cloudflare
+cloudflare
 cloudformation
 cloudfoundry
-CloudHub
+cloudhub
 cloudide
 cloudinary
 cloudkit
@@ -947,7 +947,7 @@ condition variable
 confidence interval
 config
 configuration
-ConfigurationElementCollection
+configurationelementcollection
 confluent
 connection
 connection pooling
@@ -998,11 +998,11 @@ core data
 core foundation
 core graphics
 core image
+corelocation
 core location
-CoreLocation
-CoreOS
+coreos
 core telephony
-cornerRadius
+cornerradius
 corona
 coroutine
 correlation
@@ -1012,7 +1012,7 @@ cortana intelligence
 cortex m
 cortex m 
 couchdb
-CouchDb
+couchdb
 count
 counting sort
 covariance
@@ -1033,7 +1033,7 @@ crash
 crashlytics
 crash reports
 crc
-createElement
+createelement
 credentials
 criterion
 critical section
@@ -1041,7 +1041,7 @@ cron
 crop
 cross compiling
 cross domain
-Crossfilter
+crossfilter
 cross platform
 cross validation
 crosswalk
@@ -1052,7 +1052,7 @@ cryptographicexception
 cryptography
 crystal reports
 cscript
-CSG
+csg
 csrf
 css
 css 
@@ -1073,10 +1073,10 @@ cucumberjs
 cucumber jvm
 cuda
 curl
-cURL
+curl
 currency
-CurrencyStyle
-currentTitle
+currencystyle
+currenttitle
 currying
 cursor
 curve fitting
@@ -1098,7 +1098,7 @@ cypher
 cyrus
 cython
 cythonize
-Cytoscape
+cytoscape
 c++ z
 d
  d
@@ -1126,36 +1126,36 @@ dataframe
 datagram
 datagrid
 datagridview
-DataGridView
+datagridview
 data mining
 dataprovider
 dataset
-DataSet
+dataset
 datasource
-dataSource
+datasource
 datastax
 datastax enterprise
 datastax java driver
 datastax startup
 data structures
 datatable
+datatable
 data.table
-DataTable
 datatables
 datatables.
 data visualization
 date
-DateBox
+datebox
 datepicker
 datetime
 datetime conversion
 dbaas
 dbi
-DCharts
+dcharts
 dcos
 dd
 ddd repositories
-DDEVICE
+ddevice
 ddl
 deadlock
 debian
@@ -1202,7 +1202,7 @@ depth
 depth first search
 deque
 dereference
-Deserialize
+deserialize
 design
 design guidelines
 design patterns
@@ -1211,7 +1211,7 @@ desktop
 desktop application
 destructor
 detection
-detectMultiScale
+detectmultiscale
 dev c++
 developer console
 development environment
@@ -1238,8 +1238,8 @@ direct labels
 directory
 directory structure
 directx
+directx
 directx 
-DirectX
 disconnect
 discriminated union
 dismiss
@@ -1326,10 +1326,10 @@ drop down menu
 dropwizard
 dropzone.js
 drupal
-DSecure
+dsecure
 dsl
 dsym
-DTO
+dto
  dtouch
 duck typing
 dump
@@ -1345,7 +1345,7 @@ dynamic cast
 dynamic class loaders
 dynamic programming
 dynamic reports
-DynamicResource
+dynamicresource
 dynamics axr 
 dynamics crm
 dynamics crm 
@@ -1371,19 +1371,19 @@ ecto
 eddystone
 edge detection
 edi
-EditorGUI
+editorgui
 editview
 e e testing
-EF
+ef
 effect
 effective c++
 effective java
 ef migrations
 eigen
 eigen 
+ejb
 ejb. 
-EJB
-EJS
+ejs
 el
 elapsedtime
 elastic beanstalk
@@ -1409,8 +1409,8 @@ embedded
 embedded jetty
 embedded linux
 embedding
+emberjs
 ember.js
-Emberjs
 emoji
 empty class
 emr
@@ -1431,7 +1431,7 @@ entity
 entity framework
 entity framework core
 entitymanager
-EntiyFramework
+entiyframework
 enumerate
 enums
 environment
@@ -1446,14 +1446,14 @@ erb
 erd
 erlang
 error handling
-ESB
+esb
 escaping
 eslint
 esp
 espromise
 etl
 euclidean distance
-eulerAngles
+eulerangles
 evaluation
 event bus
 eventemitter
@@ -1474,7 +1474,7 @@ exception handling
 exe
 executioncontext
 executorservice
-ExecutorService
+executorservice
 existential type
 exit
 expander
@@ -1490,7 +1490,7 @@ express checkout
 expression
 expression templates
 expression trees
-Expressjs
+expressjs
 exprtk
 extbase
 extend
@@ -1523,7 +1523,7 @@ facebook messenger
 facebook sdk
 facebook sdk. 
 face detection
-FACELET
+facelet
 facepoints
 face recognition
 facet
@@ -1533,11 +1533,11 @@ factory
 factory pattern
 faker
 fastlane match
-fastLm
+fastlm
 fastscroll
 fat
 favicon
-Fb
+fb
 feature detection
 federated identity
 fedora
@@ -1578,7 +1578,7 @@ final
 finalizer
 financial
 find
-FindBugs
+findbugs
 finder
 fingerprint
 firebase
@@ -1611,9 +1611,9 @@ flask login
 flask sqlalchemy
 flatten
 flexbox
-Flink
+flink
 flink streaming
-FloatBuffer
+floatbuffer
 floating accuracy
 floating action button
 floating point
@@ -1630,15 +1630,15 @@ foreach
 foreground
 forgot password
 fork
-ForkJoinPool
+forkjoinpool
 for loop
 format
 format specifiers
 format string
 formatter
 formatting
+formdata
 form data
-FormData
 form for
 forms
 formula
@@ -1650,7 +1650,7 @@ fragmentation
 fragment backstack
 fragmenttransaction
 frame
-Framebuffer
+framebuffer
 frameworks
  frameworks
 fread
@@ -1714,22 +1714,22 @@ gensym
 genymotion
 geofire
 geojson
-GeoJSON
+geojson
 geolocation
 geom bar
 geometry
 geospatial
 get
-GetChanges
-getJSON
+getchanges
+getjson
 getopt
 getter setter
-getUserMedia
+getusermedia
 ggmap
 ggplot 
 ghc
 ghci
-GHCi
+ghci
 gherkin
 gibbon
 gif
@@ -1777,7 +1777,7 @@ gmaps rails
 gmock
 gnu
 gnu make
-GNUpg
+gnupg
 gnuplot
 go
 google
@@ -1865,7 +1865,7 @@ google vr
 google vrpanorama
 gopath
 goroutine
-GotFocus
+gotfocus
 goto
 gpgpu
 gpg signature
@@ -1909,14 +1909,14 @@ gridextra
 gridlayoutmanager
 grid search
 gridsplitter
-GridTableViewer
+gridtableviewer
 gridview
 grob
 groovy
-GroundOverlay
+groundoverlay
 group
+groupby
 group by
-GroupBy
 grouping
 grpc
 gruntjs
@@ -1956,7 +1956,7 @@ hashcode
 hashmap
 haskell
 haskell pipes
-hasMany
+hasmany
 haxe
 hbase
 hdf 
@@ -1971,7 +1971,7 @@ heap
 heap memory
 heatmap
 height
-HelloService
+helloservice
 here api
 heroku
 heuristics
@@ -1985,7 +1985,7 @@ hibernate.x
 hierarchical clustering
 hierarchical data
 high availability
-Highchart
+highchart
 highcharts
 higher order functions
 higher rank types
@@ -1999,7 +1999,7 @@ histogram
 hittest
 hive
 hlist
-HOGDescriptor
+hogdescriptor
 hololens
 homebrew
 homebrew cask
@@ -2008,7 +2008,7 @@ horizontal scaling
 horizontal scrolling
 hortonworks data platform
 hosts
-Hotkey
+hotkey
 hotkeys
 hot module replacement
 hotspot
@@ -2051,10 +2051,10 @@ httpresponse
 https
 httpserver
 httpsession
-HTTPSession
+httpsession
 http status code
 http status codes
-HttpsURLConnection
+httpsurlconnection
 httr
 hybrid mobile app
 hygiene
@@ -2079,13 +2079,13 @@ ideavim
 identity
 identityserver 
 idhttp
-IDIRECT
+idirect
 idisposable
-IDP
+idp
 ie developer tools
 ieee
 ienumerable
-IEnumerable
+ienumerable
 ifft
 iframe
 if statement
@@ -2095,11 +2095,11 @@ iis
 iis. 
 iis bit
 ijkplayer
-IllegalStateException
+illegalstateexception
 imacros
 image
 imagebutton
-ImageIO
+imageio
 image processing
 image recognition
 image scaling
@@ -2108,10 +2108,10 @@ imagesloaded
 image uploading
 imageview
 image zoom
-IMAP
+imap
 imaq
 imessage
-IMetaDataExchange
+imetadataexchange
 immutability
 immutable collections
 impala
@@ -2122,15 +2122,15 @@ implements
 implicit conversion
 import
 importerror
-ImportError
+importerror
 import.io
 impredicativetypes
-IMX
+imx
 in app
 in app billing
 in app purchase
 in app subscription
-InBrowser
+inbrowser
 in clause
 include
 include path
@@ -2153,7 +2153,7 @@ inheritance
 init.d
 initialization
 initializer list
-initWithCoder
+initwithcoder
 inject
 inner classes
 innerhtml
@@ -2180,13 +2180,13 @@ integer overflow
 integration
 integration testing
 intel
-IntelliJ
+intellij
 intellij idea
 intellisense
 intentfilter
 intents extension
 interactive
-interactivePopGestureRecognizer
+interactivepopgesturerecognizer
 interceptor
 interface
 interface builder
@@ -2205,23 +2205,23 @@ intervention
 intptr
 introspection
 inversion of control
-invocationData
+invocationdata
 invoke
-invokeProcedure
+invokeprocedure
 io
-IObservable
+iobservable
 ioc container
 iokit
 ionic 
 ionic framework
-iOS
+ios
 iot
 ip
 ipa
-iPad
+ipad
 ip address
-IPC
-iPhone
+ipc
+iphone
 iphone privateapi
 ipsec
 iptables
@@ -2232,16 +2232,16 @@ ipython parallel
 iqueryable
 iranges
 irb
-IReadOnlyCollection
-IReflect
+ireadonlycollection
+ireflect
 ironpython
-IRSTLM
+irstlm
 isa swizzling
-isBuffer
-isExistingSession
+isbuffer
+isexistingsession
 ismouseover
 istanbul
-IStoreSagaData
+istoresagadata
 iterable
 iterator
 iterm
@@ -2256,7 +2256,7 @@ jackson
 jailbreak
 jar
 jasmine
-JasperException
+jasperexception
 jasper reports
 jasperserver
 jaspersoft studio
@@ -2270,45 +2270,40 @@ javad
 javadoc
 java ee
 javafx
-JavaFX
+javafx
 javafxd
 java memory model
 javapns
-javaScript
+javascript
 java stream
 java threads
 java time
 java web start
 javax
 javax.imageio
-JAX
+jax
 jaxb
 jax rs
 jberet
 jboss
-JBoss
+jboss
 jbossfuse
 jboss logging
 jboss .x
 jcr
-JCSG
+jcsg
 jdbc
 jdbctemplate
 jekyll
 jena
 jenkins
-jenkins api
-jenkins pipeline
-jenkins plugins
-jenkins workflow
 jersey
-jersey. 
 jest
 jetbrains
 jetty
 jframe
 jfreechart
-jgGrid
+jggrid
 jgit
 jhipster
 jigsaw
@@ -2330,24 +2325,14 @@ joomla
 jooq
 jpa
 jpa. 
-JPAAnnotation
+jpaannotation
 jpanel
 jpeg
 jpg
-JProfiler
+jprofiler
 jq
 jqgrid
 jquery 
-jquery ajaxq
-jquery events
-jquery isotope
-jquery masonry
-jquery mobile
-jquery plugins
-jquery ui
-jquery ui slider
-jquery ui sortable
-jquery validate
 jrebel
 jruby
 js
@@ -2405,7 +2390,7 @@ kestrel http server
 kettle
 key
 keyboard
- keyboard extension
+keyboard extension
 keyboard shortcuts
 keychain
 keycode
@@ -2426,7 +2411,7 @@ knitr
 knockout.js
 known folders
 knp
-KnpPaginatorBundle
+knppaginatorbundle
 kotlin
 kotlin android extensions
 kruskals algorithm
@@ -2451,17 +2436,7 @@ language detection
 language extension
 language lawyer
 lapply
-laravel 
-laravel. 
-laravel middleware
-laravel migrations
-laravel queue
-laravel routing
-laravel seeding
-laravel socialite
-large files
-last insert id
-last modified
+laravel
 latex
 latitude longitude
 lattice
@@ -2516,11 +2491,11 @@ linear programming
 linear regression
 line breaks
 line by line
-lineChart
+linechart
 lines of code
 linguistics
 linkage
-LinkChildFields
+linkchildfields
 linked list
 linker
 linking errors
@@ -2537,13 +2512,13 @@ liquidfun
 lisp
 list
 listbox
-ListBox
+listbox
 list comprehension
 listener
 list initialization
-ListItem
+listitem
 listview
-ListView
+listview
 literals
 live streaming
 lldb
@@ -2558,7 +2533,7 @@ load testing
 loc
 local database
 locale
-LocalForage
+localforage
 localhost
 locality sensitive hash
 localization
@@ -2664,18 +2639,18 @@ maxima
 maze
 mbaas
 mbeans
-MBProgressHUD
+mbprogresshud
 mclapply
 md 
 mdm
 mean
 mean stack
-MeasureString
+measurestring
 media
 mediacodec
-MediaElement
+mediaelement
 mediaextractor
-MediaPlayer
+mediaplayer
 media queries
 mediarecorder
 mef
@@ -2692,7 +2667,7 @@ memory leaks
 memory management
 memory mapped files
 memory profiling
-memoryStream
+memorystream
 menu
 menuitem
 mercurial
@@ -2701,7 +2676,7 @@ mergesort
 meshlab
 mesos
 mesosphere
-MessageEntity
+messageentity
 message passing
 messages
  messages extension
@@ -2749,7 +2724,7 @@ minimize
 minmax heap
 mirror
 mixins
-MJPG
+mjpg
 mkannotation
 mkannotationview
 mkfifo
@@ -2758,7 +2733,7 @@ mktime
 mkuserlocation
 ml
 mmap
-MMC
+mmc
 mms
 mnist
 mobile
@@ -2787,7 +2762,7 @@ mongo
 mongoalchemy
 mongocsharpdriver
 mongodb
-MongoDB
+mongodb
 mongodb aggregation
 mongodb query
 mongoose
@@ -2797,7 +2772,7 @@ monkeypatching
 mono
 monoids
 montecarlo
-Moodle
+moodle
 moq
 most vexing parse
 motion
@@ -2814,7 +2789,7 @@ moya
 mozilla
 mp 
 mpi
-MPLAB
+mplab
 mplot d
 mpmusicplayercontroller
 mql 
@@ -2885,7 +2860,7 @@ navigation
 navigationbar
 navigation drawer
 n dimensional
-NDK
+ndk
 nedb
 neo j
 neon
@@ -2902,7 +2877,7 @@ netflix eureka
 netflix feign
 netlink
 netlogo
-NetLogo
+netlogo
 .net native
 netstandard
 netstandard . 
@@ -2917,7 +2892,7 @@ new operator
 new window
 nfc
 nfs
-Ng
+ng
 ng bootstrap
 ngcordova
 ngdoc
@@ -2934,11 +2909,11 @@ nightwatch.js
 nix
 nixos
 nlp
-NLS
+nls
 nltk
 nntool
-NoClassDefFoundError
-noConnectionError
+noclassdeffounderror
+noconnectionerror
 node gyp
 nodejs
 node.js
@@ -2963,7 +2938,7 @@ npm
 npm install
 npoi
 nsarray
-NSAttributedString
+nsattributedstring
 nsbundle
 nscalendar
 nsdata
@@ -2971,7 +2946,7 @@ nsdate
 nsdateformatter
 nsdictionary
 nserror
-NServiceBus
+nservicebus
 nsfetchedresultscontrolle
 nsfetchrequest
 nsfontmanager
@@ -2980,23 +2955,23 @@ nslocale
 nslog
 nslookup
 nsmanagedobject
-NSMutableDictionary
+nsmutabledictionary
 nsnotification
 nsnotificationcenter
-NSNumberFormatterStyle
+nsnumberformatterstyle
 nsoperationqueue
 nspopover
-NSPredicates
-NSSlider
-NSSortDescriptors
+nspredicates
+nsslider
+nssortdescriptors
 nsstring
 nstablerowview
 nstableview
 nstableviewcell
 nsthread
 nsurl
-NSURL
-NSURLDocumentIdentifierKey
+nsurl
+nsurldocumentidentifierkey
 nsurlrequest
 nsurlsession
 nsurlsessiondownloadtask
@@ -3005,7 +2980,7 @@ nsview
 nsviewcontroller
 ntlm
 nuget
-NuGet
+nuget
 nuget package
 null
 nullable
@@ -3023,9 +2998,9 @@ nutch
 nvidia
 nwjs
 oauth
+oauth
 oauth 
 oauth. 
-OAuth
 obd ii
 obfuscation
 objdump
@@ -3036,7 +3011,7 @@ objective c blocks
 objective c runtime
  objects
 observable
-observableCollection
+observablecollection
 observational type theory
 observer pattern
 ocaml
@@ -3063,31 +3038,31 @@ onclick
 onedrive
 onedrive api
 onesignal
-onException
-onObject
+onexception
+onobject
 ontology
 ontouchlistener
 oop
-Opcache
-OpenACC
+opcache
+openacc
 openapi
 opencart
 opencl
+opencv
 opencv . 
-openCV
 opencv android
 openerp
 openfiledialog
 openfl
 opengl
-OpenGL
+opengl
 opengl es
 opengl es. 
 openid
 openid connect
 openid provider
 openjpa
-Openlayers
+openlayers
 openmp
 opennlp
 openpyxl
@@ -3170,14 +3145,14 @@ padrino
 pageobjects
 pagepiling.js
 pagespeed
-PageViewController
+pageviewcontroller
 pagination
 paint
 paintcomponent
 pair
 pandas
 pandas datareader
-panGestureRecognizer
+pangesturerecognizer
 paperclip
 papi
 parallax
@@ -3188,7 +3163,7 @@ parameter passing
 parameters
 parametric polymorphism
 paramiko
-Parcable
+parcable
 parceler
 parent
 parent child
@@ -3233,7 +3208,7 @@ pdfclown
 pdf generation
 pdfviewer
 pdo
-Peerconnection
+peerconnection
 peewee
 pellet
 pem
@@ -3259,13 +3234,13 @@ permissions
 permutation
 perspectivecamera
 pfquery
-pgAdmin
-PGP
+pgadmin
+pgp
 pg promise
 phalcon
 phalcon routing
 phantomjs
-phantomJS
+phantomjs
 phaser framework
 philips hue
 phinx
@@ -3277,15 +3252,15 @@ phonegap desktop app
 phonegap plugins
 photokit
 photoshop script
-PHP
+php
 php curl
 php internals
 phpmyadmin
 phpstorm
-PHPStrom
+phpstrom
 physics
 pi
-PIC
+pic
 picasso
 picker
 picklist
@@ -3309,7 +3284,7 @@ playframework
 playframework. 
 playing cards
 playlist
-PleaseWaitService
+pleasewaitservice
 plist
 plot
 ploted
@@ -3358,8 +3333,8 @@ post
 .post
 postfix operator
 postgresql
+postgresql
 postgresql. 
-PostgreSQL
 postgresql performance
 postman
 pouchdb
@@ -3368,7 +3343,7 @@ powerquery
 powershell
 powershell remoting
 powershell v . 
-Pre
+pre
 precision
 precision recall
 predicate
@@ -3376,7 +3351,7 @@ preg replace
 preload
 prepared statement
 preprocessor directive
-presentView
+presentview
 presentviewcontroller
 prestashop
 pretty print
@@ -3387,7 +3362,7 @@ primeng
 primes
 primitive
 primitive types
-printDialog
+printdialog
 printf
 printing
 println
@@ -3417,9 +3392,9 @@ prometheus
 promise
 promotion code
 properties
-PropertyField
+propertyfield
 protected
-ProtectFormatting
+protectformatting
 protege
 protocol buffers
 protocol extension
@@ -3452,9 +3427,9 @@ pure virtual
 push
 pushkit
 push notification
-putSerializable
-putString
-putText
+putserializable
+putstring
+puttext
 putty
 py
 pycharm
@@ -3502,9 +3477,9 @@ qeventloop
 qlpreviewcontroller
 qmake
 qml
-QModel
-QProcess
-QPushButton
+qmodel
+qprocess
+qpushbutton
 qquickview
 qquickwidget
 qr code
@@ -3522,7 +3497,7 @@ quartz core
 quartz.net
 quartz scheduler
 query cache
-QueryDSL
+querydsl
 querying
 query optimization
 query performance
@@ -3535,7 +3510,7 @@ quickbooks
 quicklook
 quicksort
 quoting
-QWebFrame
+qwebframe
 r
 rabbitmq
 race condition
@@ -3543,11 +3518,11 @@ racket
 radar chart
 radio
 radio button
-RadioButtonList
+radiobuttonlist
 radius
 radix
 raii
-Railo
+railo
 rails activerecord
 rakefile
 ram
@@ -3563,7 +3538,7 @@ rational
 raw sockets
 razor
 r caret
-RcppEigen
+rcppeigen
 rcurl
 rdd
 rds
@@ -3572,7 +3547,7 @@ react dom
 reactivemongo
 reactive programming
 reactjs
-ReactJS
+reactjs
 reactjs flux
 react jsx
 react native
@@ -3584,12 +3559,12 @@ react redux
 react router
 react router redux
 react router relay
-readAll
-readAllBytes
+readall
+readallbytes
 readelf
-readLine
-ReadOnly
-readyState
+readline
+readonly
+readystate
 reagent
 realm
 realm list
@@ -3608,7 +3583,7 @@ recursion
 recursion schemes
 recv
 recyclerview
-RecyclerView
+recyclerview
 red black tree
 redhat
 redirect
@@ -3628,7 +3603,7 @@ reflection
 re frame
 regex
 regex greedy
-REGEXP
+regexp
 region monitoring
 registry
 registrykey
@@ -3644,7 +3619,7 @@ relayjs
 release
 remember me
 remoteview
-removeView
+removeview
 rendering
 renderscript
 replace
@@ -3658,8 +3633,8 @@ repository pattern
 reproducible research
 request
 requestanimationframe
-requestFileSystem
-RequestQueue
+requestfilesystem
+requestqueue
 require
 required
 requirejs
@@ -3667,9 +3642,9 @@ requirements
 resampling
 rescue
 research
-ResetFilterToolbar
+resetfiltertoolbar
 resharper
-resignFirstResponder
+resignfirstresponder
 resize
 resizeing
 resolve
@@ -3679,7 +3654,7 @@ responsive images
 rest
 rest client
 resteasy
-RESTful
+restful
 restful authentication
 restful url
 restkit
@@ -3697,7 +3672,7 @@ return
 return type
 return type deduction
 return value
-revealViewController
+revealviewcontroller
 reverse
 reverse engineering
 reverse proxy
@@ -3713,14 +3688,14 @@ rijndaelmanaged
 riscv
 rmarkdown
 rmi
-RNetLogo
+rnetlogo
 robocopy
 robolectric
 robotframework
-Roku
+roku
 rollupjs
 root
-RootViewController
+rootviewcontroller
 roslyn
 roslyn code analysis
 rotation
@@ -3738,6 +3713,7 @@ rsa
 rselenium
 rspec
 rspec rails
+rss
 rstudio
 rsync
 rsyslog
@@ -3753,8 +3729,8 @@ run length encoding
 runnable
 runserver
 runtime
+runtimeerror
 runtime error
-RuntimeError
 runtimeexception
 runtime permissions
 rust
@@ -3763,15 +3739,15 @@ ruta
 rvalue
 rvalue reference
 rvo
-RxAndroid
+rxandroid
+rxbinding
 rx binding
-RxBinding
+rxjava
 rx java
-RxJava
 rxjs
 rxjs 
 rx swift
-RxView
+rxview
 safari
 sails.js
 salesforce
@@ -3812,12 +3788,12 @@ scikit image
 scikit learn
 scipy
 scoring
-Scorm
+scorm
 scp
 scrapy
 scrapy spider
 screen capture
-ScreenOverlay
+screenoverlay
 screen readers
 screen scraping
 screenshot
@@ -3828,7 +3804,7 @@ scroll
 scrollbar
 scrollreveal.js
 scrollview
-ScrollView
+scrollview
 scrollviewer
 scrypt
 scss lint
@@ -3838,14 +3814,14 @@ sdk
 sdl
 sdlc
 sdwebimage
-SDWebImage
+sdwebimage
 seaborn
 search
 search dialog
 searchview
 seccomp
 security
-SecurityTokenStore
+securitytokenstore
 sed
 segmentation fault
 segment tree
@@ -3864,9 +3840,9 @@ selenium webdriver
 self
 semantic ui
 semaphore
-Sencha
+sencha
 sendbird
-sendEvent
+sendevent
 sendgrid
 sendmessage
 sentiment analysis
@@ -3896,14 +3872,14 @@ ses
 session
 sessionfactory
 set
-setAutoresizingMask
-setExpandRatio
-setProperty
+setautoresizingmask
+setexpandratio
+setproperty
 set theory
 settimeout
 setuid
 setup deployment
-setUsePreviouslyControlledSession
+setusepreviouslycontrolledsession
 sfinae
 sfsafariviewcontroller
 sftp
@@ -3920,7 +3896,7 @@ sharding
 shared element transition
 shared libraries
 sharedpreferences
-SharedPreferences
+sharedpreferences
 shared project
 shared ptr
 share extension
@@ -3932,7 +3908,7 @@ shift
 shiny
 shinyapps
 shiro
-ShortBuffer
+shortbuffer
 short circuiting
 shortest path
 shuffle
@@ -4016,14 +3992,14 @@ software design
 software engineering
 software quality
 solaris
-SolidColorBrush
+solidcolorbrush
 solid principles
 solr
 solution
 sonarlint
 sonarqube
+sonarqube
 sonarqube. 
-SonarQube
 sonarqube ops
 sonarqube scan
 sonarqube web
@@ -4032,8 +4008,8 @@ soot
 sorting
 sos
 soundcloud
-Soundcloud
-SoundJS
+soundcloud
+soundjs
 source maps
 sourcetree
 sp
@@ -4097,18 +4073,18 @@ spring rest
 spring restcontroller
 spring roo
 spring security
-springSecurityFitlerChain
+springsecurityfitlerchain
 spring security oauth 
 spring transactions
 spring validator
 spring webflow
 sprite
 sprite kit
-SQL
+sql
 sqlalchemy
 sql azure
 sqlclr
-SqlDataAdapter
+sqldataadapter
 sqldelight
 sqldf
 sqlfiddle
@@ -4138,7 +4114,7 @@ ssis
 ssl
 ssl certificate
 sslhandshakeexception
-SSLHandshakeException
+sslhandshakeexception
 ssms
 ssms 
 ssrs 
@@ -4160,7 +4136,7 @@ static code analysis
 static files
 static generator
 static libraries
-StaticLoggerBinder
+staticloggerbinder
 static methods
 static typing
 statistics
@@ -4204,7 +4180,7 @@ structuremap
 struts
 struts 
 stun
-StyledCellLabelProvider
+styledcelllabelprovider
 styles
 stylus
 subclass
@@ -4256,7 +4232,7 @@ swisscomdev
 switch statement
 swizzling
 swrevealviewcontroller
-SWRevealViewController
+swrevealviewcontroller
 sybase
 sybase iq
 symbol
@@ -4277,7 +4253,7 @@ syntax error
 syntax highlighting
 syntaxnet
 sysfs
-Sysout
+sysout
 system alert window
 system calls
 systemcolors
@@ -4288,13 +4264,13 @@ system tray
 system verilog
 systrace
 tableview
-tableView
-TableView
+tableview
+tableview
 tabs
 taco
 tagging
-TAGLIB
-tagName
+taglib
+tagname
 tags
 task
 task parallel library
@@ -4304,20 +4280,20 @@ tcp
 tdd
 team
 teamcity
+teamcity
 teamcity. 
-TeamCity
-TeamSite
+teamsite
 teaspoon
 telegram
 telegram bot
 telephony
-Telerik
+telerik
 template deduction
 template engine
 template meta programming
 templates
 template specialization
-templateUrl
+templateurl
 temporary objects
 tensorboard
 tensorflow
@@ -4338,7 +4314,7 @@ textbox
 text classification
 text editor
 textfield
-textField
+textfield
 text files
 textinputlayout
 text mining
@@ -4379,14 +4355,14 @@ timeout
 timer
 time series
 timestamp
-timeToReachQueue
+timetoreachqueue
 timezone
 timezoneoffset
 tinkerpop
 tinymce
 titan
 titanium
-titleLabel
+titlelabel
 tkinter
 tm
 tmux
@@ -4394,7 +4370,7 @@ tnsnames
 toad
 today extension
  today widget
-toHtml
+tohtml
 token
 tokenize
 tomcat
@@ -4434,7 +4410,7 @@ tream
 tree
 tree traversal
 treeview
-treeView
+treeview
 trello
 triangulation
 trie
@@ -4443,7 +4419,7 @@ trigonometry
 trim
 truthtable
 try catch
-TryGetObjectByKey
+trygetobjectbykey
 try with resources
 tsc
 tsd
@@ -4480,7 +4456,7 @@ type conversion
 typedef
 type erasure
 typeerror
-TypeError
+typeerror
 type families
 type hinting
 typeid
@@ -4504,19 +4480,19 @@ udp
 uglify
 uglifyjs
 ui
-UI
+ui
 uiaccessibility
 uiactivityviewcontroller
 uialertcontroller
 uialertview
-UIAlertview
+uialertview
 ui automation
 uibezierpath
-UIBezierPath
+uibezierpath
 uibutton
-UIButton
+uibutton
 uicollectionview
-UICollectionView
+uicollectionview
 uicollectionviewcell
 uicollectionviewlayout
 uicontainerview
@@ -4525,7 +4501,7 @@ uigesturerecognizer
 uiimage
 uiimagepickercontroller
 uiimageview
-UIImageView
+uiimageview
 uikit
 uilabel
 uilocalnotification
@@ -4536,7 +4512,7 @@ uinavigationitem
 uipangesturerecognizer
 uipasteboard
 uipickerview
-UIPickerView
+uipickerview
 uiprintinfo
 uiprintinteractioncntrler
 uirefreshcontrol
@@ -4544,15 +4520,15 @@ uiresponder
 uiscreen
 uiscrollview
 uisplitviewcontroller
-UISplitViewController
+uisplitviewcontroller
 uistoryboard
 uistoryboardsegue
 uitableview
-UItableView
-UITableViewCell
+uitableview
+uitableviewcell
 uitextfield
 uitextview
-UITextView
+uitextview
 ui thread
 uiview
 uiviewanimation
@@ -4574,7 +4550,7 @@ uniform distribution
 uninstall
 unions
 unique
-UnitTestCase
+unittestcase
 unit testing
 unity 
 unity container
@@ -4595,7 +4571,7 @@ unsafe pointers
 unsigned
 unsigned integer
 unsubscribe
-Unsubscribe
+unsubscribe
 unusernotificationcenter
 updates
 upgrade
@@ -4645,7 +4621,7 @@ vagrantfile
 validation
 value
 value initialization
-valueOf
+valueof
 vapix
 vapor
 var
@@ -4682,7 +4658,7 @@ vi
 vichuploaderbundle
 video
 video capture
-VideoDevice
+videodevice
 video encoding
 video.js
 video processing
@@ -4691,17 +4667,17 @@ video tracking
 videoview
 view
 viewcontroller
-Viewdata
-ViewModel
-ViewModelLocator
-ViewPager
+viewdata
+viewmodel
+viewmodellocator
+viewpager
 viewport
 viewwillappear
-viewWillDisear
+viewwilldisear
 vim
 vimeo
 vim fugitive
-VIMVideoPlayer
+vimvideoplayer
 viper
 viper architecture
 virtual
@@ -4739,7 +4715,7 @@ volume
 volusion
 voronoi
 voxel
-VPN
+vpn
 vscode
 vsix
 vs team services
@@ -4777,8 +4753,8 @@ weak references
 web
 web api testing
 web applications
+webaudio
 web audio
-WebAudio
 web audio api
 webauthn
 webautomation
@@ -4794,7 +4770,7 @@ webgl
 webhooks
 webkit
 weblogic
-WebP
+webp
 webpack
 webpack dev server
 webpack file loader
@@ -4802,12 +4778,12 @@ webpack plugin
 web performance
 webproxy
 webrtc
-WebRTC
+webrtc
 web scraping
 webserver
 web services
 websocket
-WebSockets
+websockets
 websphere
 websphere liberty
 webstorm
@@ -4870,24 +4846,24 @@ winvideo
 wit.ai
 wix
 wkwebview
-WL
+wl
 wmctrl
 wolfram mathematica
 woocommerce
-WordNet
+wordnet
 wordpress
 wordpress theming
 word vec
 word wrap
 workflow activity
 working directory
-Worklight
+worklight
 worldpay
 wowza
 wpf
 wrap
 wscript
-WScript
+wscript
 wsdl
 wsgi
 wsl
@@ -4907,7 +4883,7 @@ xamarin.
 xamarin.android
 xamarin.forms
 xaml
-XamlParseException
+xamlparseexception
 xampp
 xaudio 
 x certificate
@@ -4921,10 +4897,10 @@ xctest
 xctestcase
 xdebug
 xdotool
-Xeon
+xeon
 xff
 xgboost
-XGrabPointer
+xgrabpointer
 xib
 xilinx
 xip.io
@@ -4935,11 +4911,11 @@ xml
 xml drawable
 xml formatting
 xmlhttprequest
-XMLHTTPRequest
+xmlhttprequest
 xml namespaces
 xml parsing
 xmlreader
-XmlSerializer
+xmlserializer
 xmlunit
 xmpp
 xnu
@@ -4947,8 +4923,8 @@ xor
 xp
 xpath
 xperf
-XPTY
-XQuery
+xpty
+xquery
 xs
 xsd
 xsl fo
@@ -4963,7 +4939,7 @@ yahoo finance
 yaml
 yarn
 yellow pages
-Yesod
+yesod
 yii
 yii 
 yiiadvanced app
@@ -4980,7 +4956,7 @@ youtube data api
 youtube iframe api
 youtube vapi
 yy
-Zend
+zend
 zeromq
 zerorpc
 z index
