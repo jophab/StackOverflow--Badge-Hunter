@@ -1,7 +1,7 @@
 # StackOverflow--Badge-Hunter
 Read this to know [more about SO Badges](https://stackoverflow.com/help/badges)
 
-###marshal.py
+### marshal.py
 
 
 ![Image of marshal](https://s28.postimg.org/b7btqx3yl/mar.png)
@@ -19,7 +19,7 @@ This script opens the url in your default browser. It would be better to **use c
 
 You should have python3, BeautifulSoup installed in your system
 
-####Flag Details
+#### Flag Details
 >You start with 10 flags per day.
 
 >Based on your reputation and flagging history, you can end up with as many as 100 per day.
@@ -38,7 +38,7 @@ Format of url : http://stackoverflow.com/questions?page=2&sort=newest
 
 
 
-###copyeditor.py 
+### copyeditor.py 
 
 
 ![Image of copy](https://s27.postimg.org/40of0ktsz/copy.png)
@@ -98,7 +98,7 @@ We use pages like `82459, 78954 ` etc which will have questions that were active
 
 You can change the range of pages checked by modifying the code
 
-####There are a handful of conditions where SO will stop accepting suggested edits:
+#### There are a handful of conditions where SO will stop accepting suggested edits:
 
 >A large number of suggested edits by you were rejected in the past week (at least 5 more than one-third of your accepted edits).
 
@@ -119,7 +119,7 @@ Those numbers in range specifies the `page=` in url
 You should have python3, BeautifulSoup,enchant installed in your system
 
 
-###electorate.py 
+### electorate.py 
 
 ![Image of elec](https://s24.postimg.org/e53nc6g79/elec.png)
 
@@ -153,8 +153,8 @@ You should have python3, BeautifulSoup,selenium installed in your system
 
 
 
-###These scripts may have lot of problems.
-###Feel free to fork and give your corrections and improvements as Pull Requsets
-###New badge hunters are also welcome
+### These scripts may have problems.
+### Feel free to fork and give your corrections and improvements as Pull Requsets
+### New badge hunters are also welcome
 
 
