@@ -151,6 +151,8 @@ This script had made sure that you will vote only on questions having postive sc
 You should have python3, BeautifulSoup,selenium installed in your system
 
 
+## Contributors
+See the list of contributors [here](https://github.com/jophab/StackOverflow--Badge-Hunter/graphs/contributors)
 
 
 ### These scripts may have problems.
