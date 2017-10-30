@@ -1,5 +1,5 @@
 # StackOverflow--Badge-Hunter
-Read this to know [more about SO Badges](https://stackoverflow.com/help/badges)
+Read this link to know [more about SO Badges](https://stackoverflow.com/help/badges)
 
 ### marshal.py
 
